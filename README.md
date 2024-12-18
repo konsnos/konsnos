@@ -4,7 +4,7 @@ Hi,
 
 I'm a professional game developer. I have been making games for 12 years, 9 of which using the Unity game engine, that have been downloaded by millions of players.
 
-My expertise is gameplay, and I'm passionate about understanding how various games work, the design and the process of implementation. I also enjoy working on AR, game AI, and optimisation.
+My expertise is **gameplay**, and I'm passionate about understanding how various games work, the design and the process of implementation. I also enjoy working on **AR**, **game AI**, and **optimisation**.
 
 Being a great fan of writing clean and robust code I have an expert understanding of design patterns and pair programming and I always enjoy writing and receiving a code review.
 
